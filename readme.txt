@@ -18,7 +18,7 @@ FIRST Download
 
 8. Create a database with name fos_db
 
-6. Import fos_db.sql file(given inside the zip package in SQL file folder)
+6. Import fos_db.sql file
 
 7.Run the script http://localhost/Edson's Zhejiang Cuisine
 
@@ -26,7 +26,7 @@ FIRST Download
 **LOGIN DETAILS** 
 
 Admin
-user: admin
-pass: admin123
+user: 
+pass: 
 
-****** www.edsonnyoni.com ******
+****** edsonnyoni92@gmail.com ******
